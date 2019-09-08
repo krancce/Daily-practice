@@ -2,4 +2,4 @@
 
 | Questions | Difficulty | Solution |
 |-----------| -------- | ----------|
-| [TwoSum](https://leetcode.com/problems/two-sum/)| [Easy] | [⚡](TwoSum.java) |
+| [TwoSum](https://leetcode.com/problems/two-sum/)| ⚡ | [📃](TwoSum.java) |
