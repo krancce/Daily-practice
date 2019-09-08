@@ -3,3 +3,4 @@
 | Questions | Difficulty | Solution | Tag |
 |-----------| -------- | ----------|-----------|
 | [TwoSum](https://leetcode.com/problems/two-sum/)| ⚡ | [📃](TwoSum.java) | HashMap |
+| [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|⚡|[📃](RomanToInt.java)|HashMap|
