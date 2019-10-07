@@ -11,3 +11,4 @@
 |[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|⚡⚡⚡|[📃](mergeKlists.java)|Singly-Linked-List; MinHeap|
 |[ThreeSum](https://leetcode.com/problems/3sum/)|⚡⚡|[📃](threesum.java)|ArrayList; HashMap|
 |[Count & Say](https://leetcode.com/problems/count-and-say/)|⚡|[📃](lookandsay.java)|Queue|
+|[Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)|⚡|[📃](mergeArray.java)|Array|
