@@ -12,3 +12,4 @@
 |[ThreeSum](https://leetcode.com/problems/3sum/)|⚡⚡|[📃](threesum.java)|ArrayList; HashMap|
 |[Count & Say](https://leetcode.com/problems/count-and-say/)|⚡|[📃](lookandsay.java)|Queue|
 |[Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)|⚡|[📃](mergeArray.java)|Array|
+|[Add Binary](https://leetcode.com/problems/add-binary/submissions/)|⚡|[📃](addBinary.java)|Array|
