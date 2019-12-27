@@ -1,4 +1,4 @@
-### This repository includes my solutions of my daily practicing questions. 
+### This repository includes my solutions of my daily practice. 
 
 | Questions | Difficulty | Solution | Tag |
 |-----------| -------- | ----------|-----------|
