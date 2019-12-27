@@ -1,4 +1,4 @@
-### This repository includes my solutions of the interview questions (FaceBook mainly). 
+### This repository includes my solutions of my daily practicing questions. 
 
 | Questions | Difficulty | Solution | Tag |
 |-----------| -------- | ----------|-----------|
