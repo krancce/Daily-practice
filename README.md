@@ -15,4 +15,4 @@
 |[Add Binary](https://leetcode.com/problems/add-binary/submissions/)|⚡|[📃](addBinary.java)|Array|
 |[BST level-order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|⚡⚡|[📃](BSTlevelordertraversal.java)|ArrayList; Queue|
 |[Meeting Room II](https://www.youtube.com/watch?v=118Ie3nPCdc)|⚡⚡|[📃](meetingRoom.java)|Array|
-|[Decode Ways](https://leetcode.com/problems/decode-ways/submissions/)|⚡⚡|[📃](DecodeWays.java)|DP|
+|[Decode Ways](https://leetcode.com/problems/decode-ways/submissions/)|⚡⚡|[📃](DecodeWays.java)|Dynamic Programing|
