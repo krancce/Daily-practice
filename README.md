@@ -16,3 +16,4 @@
 |[BST level-order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|⚡⚡|[📃](BSTlevelordertraversal.java)|ArrayList; Queue|
 |[Meeting Room II](https://www.youtube.com/watch?v=118Ie3nPCdc)|⚡⚡|[📃](meetingRoom.java)|Array|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/submissions/)|⚡⚡|[📃](DecodeWays.java)|Dynamic Programing|
+|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|⚡⚡|[📃](MergeIntervals.java|ArrayList|
