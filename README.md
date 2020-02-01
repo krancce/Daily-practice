@@ -18,3 +18,4 @@
 |[Decode Ways](https://leetcode.com/problems/decode-ways/submissions/)|⚡⚡|[📃](DecodeWays.java)|Dynamic Programing|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|⚡⚡|[📃](MergeIntervals.java)|ArrayList|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)|⚡⚡|[📃](POAES.java)|Left-Right-Approch|
+|[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|⚡⚡|[📃](SubArraySums.java)|[HashMap]
