@@ -19,3 +19,4 @@
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|⚡⚡|[📃](MergeIntervals.java)|ArrayList|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)|⚡⚡|[📃](POAES.java)|Left-Right-Approch|
 |[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|⚡⚡|[📃](SubArraySums.java)|[HashMap]
+|[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)|⚡⚡|[📃](Kclosest.java)|[Array]
