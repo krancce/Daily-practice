@@ -21,3 +21,4 @@
 |[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|⚡⚡|[📃](SubArraySums.java)|[HashMap]
 |[K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)|⚡⚡|[📃](Kclosest.java)|[Array]
 |[Word Break](https://leetcode.com/problems/word-break/submissions/)|⚡⚡|[📃](wordBreak_Memo.java)[📃](wordBreak_dp.java)|[Memoization; Dynamic Programming]
+[Minimum Remove to Make Valid Parenthese](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|⚡⚡|[📃](minRemove.java)|[]
