@@ -23,5 +23,6 @@
 |[Word Break](https://leetcode.com/problems/word-break/submissions/)|⚡⚡|[📃](wordBreak_Memo.java)[📃](wordBreak_dp.java)|Memoization; Dynamic Programming|
 [Minimum Remove to Make Valid Parenthese](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|⚡⚡|[📃](removeValid.java)|Stack|
 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|⚡⚡|[📃](rightSideView.java)|Reverse-level-order-traversal|
-[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|⚡⚡|[📃](intervalSec.java)|ArrayList|
+[Interval List Intersec)|tions](https://leetcode.com/problems/interval-list-intersections/)|⚡⚡|[📃](intervalSec.java)|ArrayList|
 |[Anagrams Of A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|⚡⚡|[📃](anagrams.java)|ArrayList|
+|[Walls And Gates](https://leetcode.com/problems/walls-and-gates/)|⚡⚡|[📃](WallsAndGates.java)|Queue;BFS|
