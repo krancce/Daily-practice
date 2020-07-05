@@ -29,3 +29,4 @@
 |[Number Of Island](https://leetcode.com/problems/number-of-islands/)|⚡⚡|[📃](NumIsland.java)|Queue; BFS|
 |[Clone Graph](https://leetcode.com/problems/clone-graph/)|⚡⚡|[📃](cloneGraph.java)|recursion; DFS|
 |[Target Sum](https://leetcode.com/problems/target-sum/)|⚡⚡|[📃](targetSum.java)|recursion; DFS|
+|[BST Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|⚡⚡|[📃](inorderBST.java)|Stack; DFS|
