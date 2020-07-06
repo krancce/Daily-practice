@@ -30,4 +30,4 @@
 |[Clone Graph](https://leetcode.com/problems/clone-graph/)|⚡⚡|[📃](cloneGraph.java)|recursion; DFS|
 |[Target Sum](https://leetcode.com/problems/target-sum/)|⚡⚡|[📃](targetSum.java)|recursion; DFS|
 |[BST Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|⚡⚡|[📃](inorderBST.java)|Stack; DFS|
-|[BST Vertival Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|⚡⚡|[📃](veritcalOrder.java)|BFS; HashMap; Queue|
+|[BST Vertival Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|⚡⚡|[📃](verticalOrder.java)|BFS; HashMap; Queue|
