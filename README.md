@@ -31,3 +31,4 @@
 |[Target Sum](https://leetcode.com/problems/target-sum/)|⚡⚡|[📃](targetSum.java)|recursion; DFS|
 |[BST Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|⚡⚡|[📃](inorderBST.java)|Stack; DFS|
 |[BST Vertival Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|⚡⚡|[📃](verticalOrder.java)|BFS; HashMap; Queue|
+|[BST Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|⚡⚡|[📃](BSTiterator.java)|BFS; recursion|
