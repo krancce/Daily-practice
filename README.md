@@ -33,3 +33,4 @@
 |[BST Vertival Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|⚡⚡|[📃](verticalOrder.java)|BFS; HashMap; Queue|
 |[BST Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|⚡⚡|[📃](BSTiterator.java)|BFS; recursion|
 |[Add & Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|⚡⚡|[📃](wordDictionary.java)|HashMap|
+|[Power Function](https://leetcode.com/problems/powx-n/solution/)|⚡⚡|[📃](power.java)|recursion|
