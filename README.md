@@ -36,3 +36,4 @@
 |[Power Function](https://leetcode.com/problems/powx-n/solution/)|⚡⚡|[📃](power.java)|recursion|
 |[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|⚡⚡|[📃](SubArraySum.java)|HashMap|
 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|⚡|[📃](maxSub.java)|Dynamic-Programming|
+|[Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|⚡|[📃](sellStock.java)|Greedy|
