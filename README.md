@@ -39,3 +39,4 @@
 |[Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|⚡|[📃](sellStock.java)|Greedy|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|⚡|[📃](climbStairs.java)|Dynamic Programming|
 |[House Robber](https://leetcode.com/problems/house-robber/)|⚡|[📃](houseRob.java)|Dynamic Programming|
+|[Maximum Depth of BST](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|⚡|[📃](BSTmaxDepth.java)|DFS|
