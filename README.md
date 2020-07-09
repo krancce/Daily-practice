@@ -35,3 +35,4 @@
 |[Add & Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|⚡⚡|[📃](wordDictionary.java)|HashMap|
 |[Power Function](https://leetcode.com/problems/powx-n/solution/)|⚡⚡|[📃](power.java)|recursion|
 |[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|⚡⚡|[📃](SubArraySum.java)|HashMap|
+|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|⚡|[📃](maxSub.java)|Dynamic-Programming|
