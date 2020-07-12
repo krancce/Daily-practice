@@ -15,7 +15,7 @@
 |[Add Binary](https://leetcode.com/problems/add-binary/submissions/)|⚡|[📃](addBinary.java)|Array|
 |[BST level-order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|⚡⚡|[📃](BSTlevelordertraversal.java)|ArrayList; Queue|
 |[Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/)|⚡⚡|[📃](meetingRoom.java)|Array|
-|[Decode Ways](https://leetcode.com/problems/decode-ways/submissions/)|⚡⚡|[📃](DecodeWays.java)|Dynamic Programing|
+|[Decode Ways](https://leetcode.com/problems/decode-ways/)|⚡⚡|[📃](DecodeWays.java)|Dynamic Programing|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|⚡⚡|[📃](MergeIntervals.java)|ArrayList|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)|⚡⚡|[📃](POAES.java)|Left-Right-Approch|
 |[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|⚡⚡|[📃](SubArraySums.java)|HashMap|
