@@ -40,3 +40,5 @@
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|⚡|[📃](climbStairs.java)|Dynamic Programming|
 |[House Robber](https://leetcode.com/problems/house-robber/)|⚡|[📃](houseRob.java)|Dynamic Programming|
 |[Maximum Depth of BST](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|⚡|[📃](BSTmaxDepth.java)|DFS|
+|[Permutations](https://leetcode.com/problems/permutations/)|⚡|[📃](permutations.java)|Back-Tracking|
+
