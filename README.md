@@ -43,3 +43,4 @@
 |[Permutations](https://leetcode.com/problems/permutations/)|⚡⚡|[📃](permutations.java)|Back-Tracking|
 |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|⚡|[📃](letterCase.java)|Back-Tracking|
 |[Pre-Order Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|⚡⚡|[📃](preorder.java)|DFS|
+|[Closest BST Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|⚡|[📃](closest.java)|Binary Search|
