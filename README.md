@@ -24,7 +24,7 @@
 |20|[Minimum Remove to Make Valid Parenthese](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|⚡⚡|[📃](removeValid.java)|Stack|
 |21|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|⚡⚡|[📃](rightSideView.java)|Reverse-level-order-traversal|
 |22|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|⚡⚡|[📃](intervalSec.java)|ArrayList|
-|23[Anagrams Of A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|⚡⚡|[📃](anagrams.java)|ArrayList|
+|23|[Anagrams Of A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|⚡⚡|[📃](anagrams.java)|ArrayList|
 24|[Walls And Gates](https://leetcode.com/problems/walls-and-gates/)|⚡⚡|[📃](WallsAndGates.java)|Queue; BFS|
 25|[Number Of Island](https://leetcode.com/problems/number-of-islands/)|⚡⚡|[📃](NumIsland.java)|Queue; BFS|
 26|[Clone Graph](https://leetcode.com/problems/clone-graph/)|⚡⚡|[📃](cloneGraph.java)|recursion; DFS|
