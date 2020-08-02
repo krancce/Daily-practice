@@ -47,3 +47,4 @@
 43|[Construct BST from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|⚡⚡|[📃](prepost.java)|DFS; Recursion|
 44|[Construct BST from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|⚡⚡|[📃](prein.java)|DFS; Recursion|
 45|[Construct BST from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|⚡⚡|[📃](pre.java)|DFS; Recursion|
+46|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|⚡|[📃](balanced.java)|DFS; Recursion|
