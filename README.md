@@ -46,3 +46,4 @@
 42|[Closest BST Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|⚡|[📃](closest.java)|Binary Search|
 43|[Construct BST from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|⚡⚡|[📃](prepost.java)|DFS; Recursion|
 44|[Construct BST from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|⚡⚡|[📃](prein.java)|DFS; Recursion|
+45|[Construct BST from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|⚡⚡|[📃](pre.java)|DFS; Recursion|
