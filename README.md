@@ -51,4 +51,4 @@
 47|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|⚡⚡|[📃](validBST.java)|DFS|
 48|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|⚡⚡|[📃](subarrayLen.java)|HashMap; Reminder|
 49|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|⚡|[📃](mergeSorted.java)|LinkedList|
-50|[ested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|⚡⚡|[📃](nestedList.java)|recursion|
+50|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|⚡⚡|[📃](nestedList.java)|recursion|
