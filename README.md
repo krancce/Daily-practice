@@ -54,3 +54,4 @@
 50|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|⚡⚡|[📃](nestedList.java)|recursion|
 51|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|⚡⚡|[📃](Trie.java)|Trie-tree|
 52|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|⚡⚡|[📃](addsearchWord.java)|Trie-tree|
+53|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|⚡⚡|[📃](leftOne.java)|wiredApproch|
